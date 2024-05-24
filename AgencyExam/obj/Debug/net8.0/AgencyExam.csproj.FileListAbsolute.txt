@@ -256,3 +256,4 @@ C:\Users\ca.r214.04\Desktop\AgencyExam\AgencyExam\bin\Debug\net8.0\runtimes\win\
 C:\Users\ca.r214.04\Desktop\AgencyExam\AgencyExam\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\ca.r214.04\Desktop\AgencyExam\AgencyExam\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ca.r214.04\Desktop\AgencyExam\AgencyExam\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\ca.r214.04\Desktop\AgencyExam\AgencyExam\obj\Debug\net8.0\AgencyExam.sourcelink.json

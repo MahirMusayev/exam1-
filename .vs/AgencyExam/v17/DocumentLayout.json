@@ -3,15 +3,67 @@
   "WorkspaceRootPath": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|c:\\users\\ca.r214.04\\desktop\\agencyexam\\agencyexam\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|c:\\users\\ca.r214.04\\desktop\\agencyexam\\agencyexam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\viemmodel\\createportfoliavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\viemmodel\\createportfoliavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|c:\\users\\ca.r214.04\\desktop\\agencyexam\\agencyexam\\viemmodel\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\viemmodel\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|c:\\users\\ca.r214.04\\desktop\\agencyexam\\agencyexam\\viemmodel\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\viemmodel\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|c:\\users\\ca.r214.04\\desktop\\agencyexam\\agencyexam\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|c:\\users\\ca.r214.04\\desktop\\agencyexam\\agencyexam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\dal\\agencycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\dal\\agencycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|c:\\users\\ca.r214.04\\desktop\\agencyexam\\agencyexam\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|c:\\users\\ca.r214.04\\desktop\\agencyexam\\agencyexam\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|c:\\users\\ca.r214.04\\desktop\\agencyexam\\agencyexam\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -27,22 +79,6 @@
       "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\dal\\agencycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\dal\\agencycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\viemmodel\\createportfoliavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\viemmodel\\createportfoliavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -55,24 +91,12 @@
       "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|solutionrelative:agencyexam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79E1A03F-4D84-4DC9-9BAC-5DC4DFDE494F}|AgencyExam\\AgencyExam.csproj|C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\agencyexam\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -99,81 +123,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Views\\Home\\Update.cshtml",
-              "RelativeDocumentMoniker": "AgencyExam\\Areas\\Admin\\Views\\Home\\Update.cshtml",
-              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Views\\Home\\Update.cshtml",
-              "RelativeToolTip": "AgencyExam\\Areas\\Admin\\Views\\Home\\Update.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AgencyExam\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "AgencyExam\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T06:14:12.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreatePortfoliaVM.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\ViemModel\\CreatePortfoliaVM.cs",
-              "RelativeDocumentMoniker": "AgencyExam\\ViemModel\\CreatePortfoliaVM.cs",
-              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\ViemModel\\CreatePortfoliaVM.cs",
-              "RelativeToolTip": "AgencyExam\\ViemModel\\CreatePortfoliaVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T05:24:28.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Views\\Home\\Create.cshtml",
-              "RelativeDocumentMoniker": "AgencyExam\\Areas\\Admin\\Views\\Home\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Views\\Home\\Create.cshtml",
-              "RelativeToolTip": "AgencyExam\\Areas\\Admin\\Views\\Home\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T05:20:36.841Z",
+              "WhenOpened": "2024-05-24T07:00:34.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AgencyExam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AgencyExam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAF0AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T05:10:59.121Z"
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\ViemModel\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "AgencyExam\\ViemModel\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\ViemModel\\Account\\LoginVM.cs",
+              "RelativeToolTip": "AgencyExam\\ViemModel\\Account\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:58:35.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "AgencyExam\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Models\\AppUser.cs",
+              "RelativeToolTip": "AgencyExam\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:42:23.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\ViemModel\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "AgencyExam\\ViemModel\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\ViemModel\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "AgencyExam\\ViemModel\\Account\\RegisterVM.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:41:55.275Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AgencyExam\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AgencyExam\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAuwDIAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T05:10:03.65Z",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AgencyExam\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "AgencyExam\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswDoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:40:47.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Portfolio.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Models\\Portfolio.cs",
-              "RelativeDocumentMoniker": "AgencyExam\\Models\\Portfolio.cs",
-              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Models\\Portfolio.cs",
-              "RelativeToolTip": "AgencyExam\\Models\\Portfolio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AgencyExam\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AgencyExam\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwBYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:57:58.604Z"
+              "WhenOpened": "2024-05-24T06:33:30.888Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\appsettings.json",
               "RelativeDocumentMoniker": "AgencyExam\\appsettings.json",
@@ -181,23 +208,77 @@
               "RelativeToolTip": "AgencyExam\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-24T04:47:07.899Z"
+              "WhenOpened": "2024-05-24T04:47:07.899Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "AgencyExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "AgencyExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "DocumentIndex": 9,
+              "Title": "AgencyContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\DAL\\AgencyContext.cs",
+              "RelativeDocumentMoniker": "AgencyExam\\DAL\\AgencyContext.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\DAL\\AgencyContext.cs",
+              "RelativeToolTip": "AgencyExam\\DAL\\AgencyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:53:35.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AgencyExam\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AgencyExam\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T05:11:32.078Z"
+              "WhenOpened": "2024-05-24T04:47:52.638Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Models\\Portfolio.cs",
+              "RelativeDocumentMoniker": "AgencyExam\\Models\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Models\\Portfolio.cs",
+              "RelativeToolTip": "AgencyExam\\Models\\Portfolio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:57:58.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreatePortfoliaVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\ViemModel\\CreatePortfoliaVM.cs",
+              "RelativeDocumentMoniker": "AgencyExam\\ViemModel\\CreatePortfoliaVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\ViemModel\\CreatePortfoliaVM.cs",
+              "RelativeToolTip": "AgencyExam\\ViemModel\\CreatePortfoliaVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:24:28.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AgencyExam\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AgencyExam\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwCQAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:10:03.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "AgencyExam\\Views\\_ViewImports.cshtml",
@@ -209,19 +290,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AgencyContext.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\DAL\\AgencyContext.cs",
-              "RelativeDocumentMoniker": "AgencyExam\\DAL\\AgencyContext.cs",
-              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\DAL\\AgencyContext.cs",
-              "RelativeToolTip": "AgencyExam\\DAL\\AgencyContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:53:35.449Z"
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AgencyExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AgencyExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:11:32.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AgencyExam\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AgencyExam\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:46:54.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Program.cs",
+              "RelativeDocumentMoniker": "AgencyExam\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Program.cs",
+              "RelativeToolTip": "AgencyExam\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:47:09.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "AgencyExam\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "AgencyExam\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:20:36.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AgencyExam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AgencyExam\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAF0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:10:59.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "AgencyExam\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "AgencyExam\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:14:12.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AgencyExam\\Areas\\Admin\\Views\\Home\\Index.cshtml",
@@ -229,24 +372,11 @@
               "RelativeToolTip": "AgencyExam\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T05:10:22.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T05:10:22.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Program.cs",
-              "RelativeDocumentMoniker": "AgencyExam\\Program.cs",
-              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Program.cs",
-              "RelativeToolTip": "AgencyExam\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:47:09.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\appsettings.Development.json",
               "RelativeDocumentMoniker": "AgencyExam\\appsettings.Development.json",
@@ -258,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "AgencyExam\\ScaffoldingReadMe.txt",
@@ -270,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "AgencyExam\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -282,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AgencyExam\\Views\\Home\\Index.cshtml",
@@ -294,19 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AgencyExam\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AgencyExam\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABsBAAAAAAAAAAAUwEoBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T04:47:52.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "AgencyExam\\Views\\_ViewStart.cshtml",
@@ -315,18 +433,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-24T04:47:48.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AgencyExam\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\AgencyExam\\AgencyExam\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AgencyExam\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:46:54.686Z"
             }
           ]
         }
