@@ -1,15 +1,17 @@
 
+using AgencyExam.DAL;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 
 namespace AgencyExam.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController(AgencyContext _context) : Controller
     {
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            return View(await _context.Portfolios.ToListAsync());
         }
 
     }

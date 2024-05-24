@@ -24,7 +24,7 @@ namespace AgencyExam.Controllers
         [HttpPost]
         public async Task<IActionResult> Register(RegisterVM vm)
         {
-            if (!ModelState.IsValid) return BadRequest(vm);
+            if (!ModelState.IsValid) return BadRequest();
             AppUser app1 = new AppUser
             {
                 Name = vm.Name,

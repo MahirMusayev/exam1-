@@ -34,26 +34,37 @@
                                     <div class="mb-3">
                                         <label asp-for="Name" class="form-label"></label>
                                         <input asp-for="Name" class="form-control" >
+                                        <span asp-validation-for="Name"></span>
+
                                     </div
                                      <div class="mb-3">
                                         <label asp-for="Surname" class="form-label"></label>
                                         <input asp-for="Surname" class="form-control" >
+                                        <span asp-validation-for="Surname"></span>
                                     </div>
                                      <div class="mb-3">
                                         <label asp-for="Username" class="form-label"></label>
                                         <input asp-for="Username" class="form-control" >
+                                        <span asp-validation-for="Username"></span>
+
                                     </div>
                                      <div class="mb-3">
                                         <label asp-for="Email" class="form-label"></label>
                                         <input asp-for="Email" class="form-control" >
+                                        <span asp-validation-for="Email"></span>
+
                                     </div>
                                      <div class="mb-3">
                                         <label asp-for="Password" class="form-label"></label>
                                         <input asp-for="Password" class="form-control" >
+                                        <span asp-validation-for="Password"></span>
+
                                     </div>
                                      <div class="mb-3">
                                         <label asp-for="ComparePassword" class="form-label"></label>
                                         <input asp-for="ComparePassword" class="form-control" >
+                                        <span asp-validation-for="ComparePassword"></span>
+
                                     </div>
                                     <div asp-validation-summary="All"></div>
                                     <button type="submit" class="btn btn-primary w-100 py-8 fs-4 mb-4 rounded-2">Sign Up</button>
